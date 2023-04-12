@@ -16,7 +16,7 @@ const Header = () => {
         className="left-box"
         style={{ display: "flex", alignItems: "center", gap: "3vw" }}
       >
-        <FaIceCream size={30} />
+        <FaIceCream size={32} />
         <h1 style={{ color: "pink" }}>Kim's Cafe Köln</h1>
       </div>
 
